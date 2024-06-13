@@ -1,0 +1,14 @@
+{
+  "name": "file-templater",
+  "version": "1.0.0",
+  "description": "generate file with your templates and data",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "wusonw",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}
